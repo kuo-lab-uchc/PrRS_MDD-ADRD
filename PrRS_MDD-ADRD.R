@@ -1,4 +1,4 @@
-# PrRS_MDD-ADRD: This function is used to calculate the proteomic risk score for Alzheimer's disease
+# PrRS_MDD-ADRD: This function is used to calculate the proteomic risk score (PrRS) for Alzheimer's disease
 # and related dementias (ADRD) for individuals with a history of major depressive disorder (MDD)
 
 PrRS <- function(data){
