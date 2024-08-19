@@ -3,7 +3,7 @@
 ## Preprint
 Proteogenomic signature of increased risk of Alzheimer's disease and related dementia risk in individuals with a history of major depression (uploaded to medRxiv soon!)
 
-We developed a proteomic risk score for ADRD among individuals with a history of MDD using data from the UK Biobank Pharma Proteomics Project (53,018 individuals and 2920 proteins). It showed higher discriminative power than common risk factors and predictors of ADRD in the general population (e.g., age, sex, education, and APOE e4 carrier status). 
+We developed a proteomic risk score for ADRD among individuals with a history of MDD using data from the UK Biobank Pharma Proteomics Project (4,586 individuals and 2,920 proteins). It showed higher discriminative power than common risk factors and predictors of ADRD in the general population (e.g., age, sex, education, and APOE e4 carrier status). 
 
 ## Setup
 Users are required to download and install R but no R package is needed to calculate the proteomic risk score to predict ADRD in MDD (PrRS_MDD-ADRD).
